@@ -1,0 +1,9 @@
+[
+  {
+    "dice": 0.962,
+    "iou": 0.928,
+    "accuracy": 0.996,
+    "sensitivity": 0.955,
+    "specificity": 0.998
+  }
+]
